@@ -77,7 +77,7 @@ const Contact = () => {
   return (
     <section id= "contact" className="flex flex-col px-8 mt-8 lg:mt-32 mb-24 lg:px-20 max-w-7xl mx-auto w-full">
       <div className="flex flex-col gap-4 items-center mb-12">
-        <h1 className="text-4xl lg:text-[42px] font-bold text-neutral-900 tracking-tight">Contact</h1>
+        <h1 className="text-4xl lg:text-[42px] text-white font-bold lg:text-neutral-900 tracking-tight">Contact</h1>
          <div className="border border-black w-25 lg:w-50 mx-auto"></div>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-start">
